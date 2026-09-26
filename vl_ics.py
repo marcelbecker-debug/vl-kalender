@@ -2,7 +2,7 @@
 """VL Ludwigstrasse 37 (Halle/Saale) -> Kalenderabo (iCalendar, .ics).
 
 Liest das Programm von https://www.ludwigstrasse37.de/ und schreibt eine
-.ics-Datei mit allen Terminen ausser KueFA und Plenum. Nur Standardbibliothek.
+.ics-Datei mit allen Terminen ausser KueFA, Plenum und Rote Hilfe. Nur Standardbibliothek.
 
 Aufruf:   python vl_ics.py [ziel.ics] [--html seite.html]
 Standard: docs/vl.ics, Seite live aus dem Netz.
@@ -21,7 +21,7 @@ from pathlib import Path
 QUELLE = "https://www.ludwigstrasse37.de/"
 ORT = "VL, Ludwigstraße 37, 06110 Halle (Saale)"
 PRAEFIX = "VL: "
-AUSSCHLUSS = re.compile(r"k[üu]fa|plenum", re.I)
+AUSSCHLUSS = re.compile(r"k[üu]fa|plenum|roten?\s+hilfe", re.I)
 DAUER = timedelta(hours=3)
 TZID = "Europe/Berlin"
 WOCHENTAGE = {"montag": 0, "dienstag": 1, "mittwoch": 2, "donnerstag": 3,
@@ -198,7 +198,7 @@ def ics(evs):
     z = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//vl-kalender//DE",
          "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "X-WR-CALNAME:VL Halle",
          "X-WR-CALDESC:" + esc("Programm VL Ludwigstraße 37, Halle (Saale) - "
-                               "ohne KüfA und Plenum. Quelle: " + QUELLE),
+                               "ohne KüfA, Plenum und Rote Hilfe. Quelle: " + QUELLE),
          "X-WR-TIMEZONE:" + TZID, "REFRESH-INTERVAL;VALUE=DURATION:P1D",
          "X-PUBLISHED-TTL:P1D"] + VTIMEZONE
     for e in evs:
