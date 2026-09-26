@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//vl-kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VL Halle
+X-WR-CALDESC:Programm VL Ludwigstraße 37\, Halle (Saale) - ohne KüfA und 
+ Plenum. Quelle: https://www.ludwigstrasse37.de/
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7f599f4c82c2eaddb957@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:VL: GESCHLOSSENE VERANSTALTUNG
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Quelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:17a95a64410c639d565b@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20260918T180000
+DTEND;TZID=Europe/Berlin:20260918T210000
+SUMMARY:VL: Vortrag und Diskussion: "Es ist einfacher\, sich das Ende der W
+ elt vorzustellen als das Ende des Kapitalismus."
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:ESA Berlin wird uns in die Welt von Mark Fisher mitnehmen und s
+ ich mit seinem Buch "Kapitalistischer Realismus: Ohne Alternative?" ausein
+ andersetzen.\nDer Kapitalismus ist in alle Bereiche des heutigen Lebens vo
+ rgedrungen und Fisher analysiert die Auswirkungen dieses Zustands auf Kult
+ ur\, Arbeit und Psyche anhand mehrerer Aspekte. Der Vortrag wagt einen Ein
+ blick in Fishers Thesen und regt zur gemeinsamen Diskussion an.\nIhr brauc
+ ht kein Vorwissen!\nBei gutem Wetter findet der Vortrag draußen statt.\n\
+ nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef48407e3281e2197e3b@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:VL: GESCHLOSSENE VERANSTALTUNG
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Quelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:f19a4c6416a3c2fbd0f2@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20260926T200000
+DTEND;TZID=Europe/Berlin:20260926T230000
+SUMMARY:VL: RAMPAGE PEANUTS + THE MUTTNICKS + THE BLACK ELEPHANT BAND
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:RAMPAGE PEANUTS (Punk - Wurzach). Punkrock wie er sein soll. Sc
+ hnell\, laut und ehrlich. Schnelle Gitarrenriffs\, treibende Drums und ein
+  charakteristischer Bass. All diese Komponenten sorgen für einen unvergle
+ ichlichen Sound.\nTHE MUTTNICKS (Punk - Hamburg) spielen für Spritgeld un
+ d Bier oder Softdrinks. Was will man mehr? "So 90er Punkrock\, der auch ir
+ gendwie nach Bouncing Souls und Co klingt"\, der relativ geil ist.\nTHE BL
+ ACK ELEPHANT BAND (Angry Antifolk\, Bearded Bluespunk\, Sassy Songwriting 
+ - Nürnberg) "Ungeschliffene\, gestochen scharf auf den Punkt kommende\, e
+ nglischsprachige Songminiaturen voll von schrägem Humor und bitterbösen 
+ Weltbetrachtungen".\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:59a9945f071ae5650693@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+DTEND;TZID=Europe/Berlin:20261003T230000
+SUMMARY:VL: HECKSPOILER + HUNZMISERABLE + FÄEX
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:HECKSPOILER [Facebook] (Metalpunk\, High gain bass&drums - AT) 
+ melden sich zurück mit ihrem dritten Studio-Album "Bock auf Stress". Das 
+ Duo aus Oberösterreich entfaltet dabei mit reduzierter Besetzung maximale
+  Wucht. Mit "Bock auf Stress" treiben HECKSPOILER ihren Metalpunk jetzt au
+ f die Spitze: schneller\, härter\, wütender - aber immer mit Herzblut\, 
+ Humor und einer ungebremsten Lust am Chaos.\nHUNZMISERABLE (Akustik Punk -
+  Leipzig) - Das Duo aus Leipzig bringt die bekanntesten Songs der deutsche
+ n Punkszene in neuem Glanz zum erblühen. Neben Titeln von KNOCHENFABRIK\,
+  TEAM SCHEISSE und MÜLHEIM ASOZIAL haben sie auch eigene Songs wie "Bitte
+  gib mir nur ein Oi!" oder "Mach den Zollstock nicht kaputt!".\nFÄEX [Fac
+ ebook] (Punk - Eisleben) spielen druckvollen\, ungeschönten Punk mit klar
+ er Kante und stehen für Punkrock mit Herz\, Seele und einer gehörigen Po
+ rtion Rotzigkeit!\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:7463cf53b6a9181fcebb@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20261015T190000
+DTEND;TZID=Europe/Berlin:20261015T220000
+SUMMARY:VL: LESUNG UND GESPRÄCH - Maria Kanitz und Lukas Geck: "LAUTER HAS
+ S. Antisemitismus als popkulturelles Ereignis" (Reihe: Gegen jeden Antisem
+ itismus)
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:3 Jahre sind seit dem brutalen Angriff der Hamas und ihrer Verb
+ ündeten vergangen. 3 Jahre\, die geprägt sind von einer in der jüngeren
+  Geschichte beispiellosen Eskalation von Antisemitismus\, die sich im Allt
+ ag von Jüdinnen und Juden\, auf den Straßen und in politischen Positions
+ bestimmungen und insbesondere auch im Kulturbetrieb zeigt.\nMaria Kanitz u
+ nd Lukas Geck stellen ihr im Verbrecher Verlag erschienenes Buch "LAUTER H
+ ASS. Antisemitismus als popkulturelles Ereignis" vor\, mit anschließender
+  Diskussion zum Buch. Die Autor:innen Maria Kanitz und Lukas Geck untersuc
+ hen darin\, wie antisemitische Narrative zunehmend in Popkultur\, Musik un
+ d digitale Öffentlichkeiten einsickern - oft unter dem Deckmantel politis
+ cher Positionierung oder Aktivismus. Die Veranstaltung greift diese Entwic
+ klungen auf und verbindet wissenschaftliche Analyse mit aktuellen Erfahrun
+ gen aus der Kulturpraxis.\nGerade in der Musik- und Veranstaltungsszene ze
+ igen sich in den vergangenen Jahren verstärkt Konflikte um politische Sym
+ bolik\, Boykottaufrufe oder israelfeindliche Darstellungen auf Bühnen. Di
+ e Lesung schafft Raum für Einordnung\, Austausch und kritische Reflexion.
+ \nRund um die Lesung gibt es die Möglichkeit für Rückfragen an die Auto
+ r:innen und das Buch und weitere am Büchertisch von Jacobi & Müller zu k
+ aufen.\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:e1fc0f0d065c9c20d269@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20261024T200000
+DTEND;TZID=Europe/Berlin:20261024T230000
+SUMMARY:VL: WER + REFAIM + SILENTWAYS
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:WER (Post-Punk\, Noise - Leipzig) bricht sich wuchtig\, lärmen
+ d und zugleich gefühlvoll\, umgarnend über das Publikum hinein. Spitze g
+ läserne Noise-Flächen\, präzise Schläge\, schubsende Bässe und liebev
+ oll\, doch von Wut erfüllter Gesang\, treiben ins Beisammensein\, wo es s
+ chön ist und die Verwirrung dem Fallenlassen weicht.\nREFAIM (Psych\, Pos
+ t-Punk\, Krautrock - Tel Aviv/IL) verbinden psychedelischen Rock\, Krautro
+ ck und östliche Einflüsse mit minimalistischen Grooves und punkgetrieben
+ er Energie. Inspiriert von Animismus\, alten Ritualen und psychedelischer 
+ Musik erschaffen die vier Musiker hypnotische Klangwelten zwischen Experim
+ ent\, Ekstase und tiefen Emotionen. Ihr live eingespieltes Album "Heut" is
+ t ein atmosphärischer Trip für Fans von SPACEMEN 3\, KIKAGAKU MOYO\, DEA
+ D SKELETONS\, FÖLLAKZOID und MINAMI DEUTSCH.\nSILENTWAYS (Darkwave\, Post
+ -Punk\, Dreampop - Neapel/IT) verbinden Darkwave\, Coldwave\, Post-Punk un
+ d\nDreampop zu melancholischen\, atmosphärischen Klanglandschaften. Äthe
+ rischer Gesang trifft auf treibende Drum-Machine-Beats\, Gothic-Gitarren\,
+  verträumte Synthesizer und dunkle Basslinien. Nach ihrem Debüt von 2016
+  kehrte das Trio 2024 mit "Aeon" zurück - kühler\, düsterer und hypnoti
+ scher als je zuvor.\nAftershow mit DEAF BLIND DUMB (DBD) - der Post Punk-\
+ , Goth Rock-\, Death Rock-\, (C)old & New Wave-\, Minimal Synths-\, Indie-
+ Disse im VL.\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9324c0d4eeeeffd097@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20261030T200000
+DTEND;TZID=Europe/Berlin:20261030T230000
+SUMMARY:VL: Film: "KÖRKARLEN - DER FUHRMANN DES TODES" - Ein Horrorfilm-Kl
+ assiker aus Schweden
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Victor Sjöström erschuf 1921 sein düsteres Stummfilm-Meister
+ werk über Sucht\, Schuld und den Tod nach einer Novelle von Selma Lagerl
+ öf. In drohenden Doppelbelichtungen verflocht er eine Nacht\, ein Jahr un
+ d ein ganzes Leben mit der Geschichte vom FUHRMANN DES TODES.\nTHE SLOTH s
+ pielt live und szenen-genau dazu Ambient\, Drone-Doom und Fieldrecordings.
+ \n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:096953fd734eca5f043a@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20261108T190000
+DTEND;TZID=Europe/Berlin:20261108T220000
+SUMMARY:VL: IVA NOVA
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:IVA NOVA [BandCamp] (Folk\, Avantgarde Rock\, Punk\, Jazz - St.
+  Petersburg/RU) holen sich ihre Inspiration in der slawischen Folklore\, d
+ ie extravagante Musik der Band hat aber auch einen absolut eigenen wie auc
+ h wilden Touch. Ihr musikalischer Ausdruck ist mächtig energiegeladen und
+  temperamentvoll\, bis hin zu verspielt und humorvoll\, weiblich und stolz
+ . Wenn die Akkordeonspielerin ihr Instrument anstimmt\, träumen wir sofor
+ t in endlose Weiten. Aber wenn nach acht Takten dazu der Synthie anhebt\, 
+ fühlen wir uns augenblicklich in das subversive Lebensgefühl der Großst
+ adt versetzt. Die Band Iva Nova wurde 2002 in Sankt Petersburg gegründet\
+ , brachte 2004 ihr erstes Album heraus und startete damit sofort eine beis
+ pielhafte Livekarriere im In- und Ausland. Seit dem touren die vier sympat
+ hischen Musikerinnen jedes Jahr durch etliche Clubs und Festivals in der g
+ anzen Welt mit ihrer unverwechselbaren und packenden Manier. Im Dezember 2
+ 024 veröffentlichten Iva Nova ihr neues Album "Mnogonastut"\, und ließen
+  sich für die zehn frischen Songs wieder von den musikalischen Traditione
+ n ihrer Heimat inspirieren. Aber zugleich bewegen sie sich kreativ in alle
+  erdenklichen Stilrichtungen\, sodass auf ihren Liveshows zwischen gefühl
+ vollen Songs und kraftvollem Punkrock alles möglich ist. Diese musikalisc
+ he Anarchie ist das Markenzeichen von IVA NOVA!\n\nQuelle: https://www.lud
+ wigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:7707cfcf7ad7c4043fa0@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20261121T220000
+DTEND;TZID=Europe/Berlin:20261122T010000
+SUMMARY:VL: DEAF BLIND DUMB (DBD)
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:DEAF BLIND DUMB (DBD) - die Post Punk-\, Goth Rock-\, Death Roc
+ k-\, (C)old & New Wave-\, Minimal Synths-\, Indie-Disse im VL.\n\nQuelle: 
+ https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:51459d69eeaff86e3925@vl-kalender
+DTSTAMP:20260926T151415Z
+DTSTART;TZID=Europe/Berlin:20261014T180000
+DTEND;TZID=Europe/Berlin:20261014T190000
+RRULE:FREQ=MONTHLY;BYDAY=2WE,4WE
+SUMMARY:VL: SPRECHSTUNDE DER ROTEN HILFE Halle im Infoladen
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Quelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+END:VCALENDAR
