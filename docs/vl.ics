@@ -27,51 +27,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7463cf53b6a9181fcebb@vl-kalender
-DTSTAMP:20261012T120033Z
-DTSTART;TZID=Europe/Berlin:20261015T190000
-DTEND;TZID=Europe/Berlin:20261015T220000
-SUMMARY:VL: LESUNG UND GESPRÄCH - Maria Kanitz und Lukas Geck: "LAUTER HAS
- S. Antisemitismus als popkulturelles Ereignis" (Reihe: Gegen jeden Antisem
- itismus)
-LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:3 Jahre sind seit dem brutalen Angriff der Hamas und ihrer Verb
- ündeten vergangen. 3 Jahre\, die geprägt sind von einer in der jüngeren
-  Geschichte beispiellosen Eskalation von Antisemitismus\, die sich im Allt
- ag von Jüdinnen und Juden\, auf den Straßen und in politischen Positions
- bestimmungen und insbesondere auch im Kulturbetrieb zeigt.\nMaria Kanitz u
- nd Lukas Geck stellen ihr im Verbrecher Verlag erschienenes Buch "LAUTER H
- ASS. Antisemitismus als popkulturelles Ereignis" vor\, mit anschließender
-  Diskussion zum Buch. Die Autor:innen Maria Kanitz und Lukas Geck untersuc
- hen darin\, wie antisemitische Narrative zunehmend in Popkultur\, Musik un
- d digitale Öffentlichkeiten einsickern - oft unter dem Deckmantel politis
- cher Positionierung oder Aktivismus. Die Veranstaltung greift diese Entwic
- klungen auf und verbindet wissenschaftliche Analyse mit aktuellen Erfahrun
- gen aus der Kulturpraxis.\nGerade in der Musik- und Veranstaltungsszene ze
- igen sich in den vergangenen Jahren verstärkt Konflikte um politische Sym
- bolik\, Boykottaufrufe oder israelfeindliche Darstellungen auf Bühnen. Di
- e Lesung schafft Raum für Einordnung\, Austausch und kritische Reflexion.
- \nRund um die Lesung gibt es die Möglichkeit für Rückfragen an die Auto
- r:innen und das Buch und weitere am Büchertisch von Jacobi & Müller zu k
- aufen.\n\nQuelle: https://www.ludwigstrasse37.de/
-URL:https://www.ludwigstrasse37.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:767f6924aec01fd3a4f1@vl-kalender
-DTSTAMP:20261012T120033Z
-DTSTART;TZID=Europe/Berlin:20261016T200000
-DTEND;TZID=Europe/Berlin:20261016T230000
-SUMMARY:VL: FAHRRAD AND THE BICYCLES + DIE FINGERNÄGEL
-LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:FAHRRAD AND THE BICYCLES (Garage Punk\, Hardcore - Dresden) üb
- erzeugen mit schnellem und dreckigen Sound und bewegen sich zwischen Garag
- e-Punk und Hardcore.\nDIE FINGERNÄGEL (Punk - Dresden) - Indiskret. Unpro
- fessionell. Leidenschaftlich.\n\nQuelle: https://www.ludwigstrasse37.de/
-URL:https://www.ludwigstrasse37.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:5e4deb0ff8bff83e2d2c@vl-kalender
-DTSTAMP:20261012T120033Z
+DTSTAMP:20261019T095505Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:VL: GESCHLOSSENE VERANSTALTUNG
@@ -80,8 +37,18 @@ DESCRIPTION:Quelle: https://www.ludwigstrasse37.de/
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:220d32e4cad652e9f8a5@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:VL: GESCHLOSSENE VERANSTALTUNG
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Quelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:e1fc0f0d065c9c20d269@vl-kalender
-DTSTAMP:20261012T120033Z
+DTSTAMP:20261019T095505Z
 DTSTART;TZID=Europe/Berlin:20261024T200000
 DTEND;TZID=Europe/Berlin:20261024T230000
 SUMMARY:VL: WER + REFAIM + SILENTWAYS
@@ -109,8 +76,22 @@ DESCRIPTION:WER (Post-Punk\, Noise - Leipzig) bricht sich wuchtig\, lärmen
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:3c91ef4d0faf97c44f4f@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261029T190000
+DTEND;TZID=Europe/Berlin:20261029T220000
+SUMMARY:VL: FILM UND GESPRÄCH - Gruppe Artemis
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Zum Inhalt: Während die islamische Sittenpolizei willkürliche
+  Razzien in Teheran durchführt und Fundamentalisten die Universitäten ko
+ ntrollieren\, versammelt eine Professorin heimlich 6 ihrer Studentinnen\,u
+ m verbotene westliche Klassiker zu lesen.\nEine Veranstaltung der Gruppe A
+ rtemis [Instagram].\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:ab9324c0d4eeeeffd097@vl-kalender
-DTSTAMP:20261012T120033Z
+DTSTAMP:20261019T095505Z
 DTSTART;TZID=Europe/Berlin:20261030T200000
 DTEND;TZID=Europe/Berlin:20261030T230000
 SUMMARY:VL: Film: "KÖRKARLEN - DER FUHRMANN DES TODES" - Ein Horrorfilm-Kl
@@ -125,23 +106,8 @@ DESCRIPTION:Victor Sjöström erschuf 1921 sein düsteres Stummfilm-Meister
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:7c01f710b346f44d1a3f@vl-kalender
-DTSTAMP:20261012T120033Z
-DTSTART;TZID=Europe/Berlin:20261031T200000
-DTEND;TZID=Europe/Berlin:20261031T230000
-SUMMARY:VL: THIS ROOM IS ALIVE + PATH TO EXILE + PROPHETS OF THE RISING DEA
- D + NIHILYSM
-LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:THIS ROOM IS ALIVE [Facebook] (Death\, Metalcore - Halle)\nPATH
-  TO EXILE [Facebook] (Modern Melodic Death - Halle)\nPROPHETS OF THE RISIN
- G DEAD [Facebook] (Modern Melodic Death - Gräfenhainichen)\nNIHILYSM [Fac
- ebook] (Melodic Death\, Metalcore - Chemnitz)\n\nQuelle: https://www.ludwi
- gstrasse37.de/
-URL:https://www.ludwigstrasse37.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:354f6204e04f6aa8741b@vl-kalender
-DTSTAMP:20261012T120033Z
+DTSTAMP:20261019T095505Z
 DTSTART;TZID=Europe/Berlin:20261106T190000
 DTEND;TZID=Europe/Berlin:20261106T220000
 SUMMARY:VL: GESPRÄCH UND MUSIK im Anschluss - DJ Phonatic: "Antisemitismus
@@ -174,7 +140,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:096953fd734eca5f043a@vl-kalender
-DTSTAMP:20261012T120033Z
+DTSTAMP:20261019T095505Z
 DTSTART;TZID=Europe/Berlin:20261108T190000
 DTEND;TZID=Europe/Berlin:20261108T220000
 SUMMARY:VL: IVA NOVA
@@ -202,23 +168,154 @@ DESCRIPTION:IVA NOVA [BandCamp] (Folk\, Avantgarde Rock\, Punk\, Jazz - St.
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:206dbb92e96ee0bfb0a2@vl-kalender
-DTSTAMP:20261012T120033Z
-DTSTART;TZID=Europe/Berlin:20251205T200000
-DTEND;TZID=Europe/Berlin:20251205T230000
-SUMMARY:VL: Winds\, Brass and Drums (WBD) präsentiert: WINTERLICHE BLASMUS
- IK DELUXE
+UID:8527e1e36a015f28e4d1@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261114T150000
+DTEND;TZID=Europe/Berlin:20261114T180000
+SUMMARY:VL: FLINTA* DRUMWORKSHOP
 LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:Schwelgende amerikanische Weihnachtslieder? Bekannte Ohrwürmer
-  aus Euren Lieblingsfilmen? Oder doch die richtigen Klassikbanger? Egal\, 
- was Ihr mögt: bei unserem Konzert läuten wir mit Euch den Advent ein!\nW
- inds\, Brass & Drums Halle e.V. (WBD) [Insta]\n\nQuelle: https://www.ludwi
- gstrasse37.de/
+DESCRIPTION:Am 14. November sind interessierte FLINTA* herzlich eingeladen 
+ im Rahmen eines kostenlosen Drumworkshops ihr Interesse zu vertiefen oder 
+ das erste Mal ein paar Rhythmen zu spielen\, das Instrument kennenzulernen
+  und sich mit anderen Menschen über Musik und Technik auszutauschen. Von 
+ 15 bis 19 Uhr können in Gruppen- oder Einzelunterricht erste Grundlagen g
+ eschaffen\, ein paar Beats gespielt und das Wissen rund um Wartung und Pfl
+ ege eines Schlagezugs vertieft werden. Meldet euch hierzu direkt bei Lucy 
+ an: lucyka.drums@posteo.de. Sie ist tourende Musikerin und spielt unter an
+ derem Schlagzeug in der Punkband TV MOMS.\nAb 19 Uhr gibt es für alle Tei
+ lnehmenden und Musikbegeisterte eine kurze Pause. Frisch gestärkt geht es
+  dann ab ca. 20 Uhr weiter mit einer Jamsession/Open stage für FLINTA*. I
+ nstrumente stehen bereit.\nWir freuen uns auf euch.\n\nQuelle: https://www
+ .ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f9cef0a02c8128a5801@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261120T190000
+DTEND;TZID=Europe/Berlin:20261120T220000
+SUMMARY:VL: OFFENE DISKUSSIONSRUNDE AM KNEIPENTISCH - Gruppe Artemis: "Welc
+ he analytische Kraft besitzt die Betrachtung der spezifisch 'weiblichen Wu
+ t' im Zusammenhang mit der Geschlechterhierarchie und lässt sich die viel
+  beschworene Nutzbarmachung der Wut in einer Weise begründen?"
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Wir laden euch ein mit uns den Abend zu verbringen. Wir wollen 
+ bei ein paar Getränken über die Frage "Welche analytische Kraft besitzt 
+ die Betrachtung der spezifisch 'weiblichen Wut' im Zusammenhang mit der Ge
+ schlechterhierarchie und lässt sich die viel beschworene Nutzbarmachung d
+ er Wut in einer Weise begründen?" diskutieren. Mit oder ohne Vorbereitung
+  freuen wir uns über alle Diskussionspartnerinnen\, die Bock haben. Auf u
+ nseren Seiten (Website\, Instagram) findest du Literatur die wir für dies
+ es Thema als erste Inspiration nutzen.\nEine Veranstaltung der Gruppe Arte
+ mis [Instagram].\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:cccb2f1362d927e8a1dd@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+DTEND;TZID=Europe/Berlin:20261121T230000
+SUMMARY:VL: MATRONE + THE ANTIKAROSHI
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:MATRONE (Punk\, Grunge\, Noise\, HC\, Flamenco - Hamburg) - Ron
+ ja (Drums\, Sampler\, Percussion und Sensory Percussion) und Marta (Gitarr
+ e\, Vocals\, Octaver und Loops): nur zwei Menschen aber eine Menge Lärm. 
+ Mal krachend treibend\, mal melodiös\, die Klangteppiche gehen ineinander
+  ein und nehmen die Zuhörenden mit auf eine Reise durch verschiedenste St
+ ilrichtungen und Gefühle. Post-Punk\, Grunge\, Noise und Hardcore\, aber 
+ auch Latin Grooves\, Flamenco\, Stoner Rock\, und am Ende\, dasie auch ger
+ ne auf der Bühne zwischendurch improvisieren\, alles was sie gerade antre
+ ibt.Nicht nur die Musik\, auch die Lyrics sind Ventil für Gefühle und We
+ ltschmerz\,mit dem Ziel sie in Stärkung und Gemeinschaftsgefühl umzuwand
+ eln. Beide hatten - schon seeeehr lange her - bei INKYSHOT das erste Mal z
+ usammengespielt\, danach getrennt in Bands wie MAISON DERRIERE\, MISFRED\,
+  S.o.S. (SORT OF SOBER) und NOTGEMEINSCHAFT PETER PAN. Außerdem\, nicht z
+ u unterschätzen\, arbeiten beide in einer Musikwerkstatt mit Kindern und 
+ Jugendlichen\, was sie dazu ZWINGT immer wieder sehr weit aus der Komfortz
+ one zu gehen\, und die musikalischen Grenzen auszuweiten.\nTHE ANTIKAROSHI
+  (Post-Hardcore\, Noise Rock\, Punk - Potsdam) - Seit gut 17 Jahren gibt e
+ s das Trio. In der Besetzung Drums\, Bassguitar\, Guitar\, Keys und Voc\, 
+ werden hier stetig die Grenzen so unterschiedlicher Genres wie Punk\, Jazz
+ \, Noise auf einem soliden Rockfundament ausgelotet. Dabei wurden bisher 5
+  Alben auf dem großartigen Exile on Mainstream Label (u.a. DÄLEK\, DYSE\
+ , A WHIS\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1585728b28e7832577b@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261127T190000
+DTEND;TZID=Europe/Berlin:20261127T220000
+SUMMARY:VL: LESUNG MIT MUSIK - AG Antisemitismus in der kosmotique (Dresden
+ ) und Friends: "... Wecker\, Waffen\, Wut und Widerstand" (Reihe: Gegen je
+ den Antisemitismus)
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Wir laden zu einer Lesung aus Ingrid Strobls Werken zu jüdisch
+ en Widerstandskämpferinnen während des Nationalsozialismus in Ost- und W
+ esteuropa. Wir lesen aus "Sag nie\, du gehst den letzten Weg - Frauen im b
+ ewaffneten Widerstand gegen Faschismus und deutsche Besatzung" (1989) und 
+ "Die Angst kam erst danach. Jüdische Frauen im Widerstand 1939–1945" (1
+ 998).\nEinige der Interviews mit den Kämpferinnen entstanden kurz vor ihr
+ er Verhaftung. Im Knast setzt Ingrid Strobl ihre Arbeit an den Büchern fo
+ rt. Sie ist eine der ersten deutschsprachigen linken Journalist:innen\, di
+ e sich dem jüdischem Widerstand widmete. Ihr ist es zu verdanken dass wir
+  die Geschichten und den Mut von Chaika Grossman\, Hannie Schaft\, Truus M
+ enger\, Emilia Landau\, Niuta Tejtelbojm\, Roza Robota und vielen anderen 
+ kennen.\nDen berühmtesten Wecker der westdeutschen Nachkriegsgeschichte k
+ aufte einst Ingrid Strobl. Sein Ende fand das Gerät als Zeitzünder bei e
+ inem Brandanschlag der Revolutionären Zellen auf ein Lufthansagebäude im
+  Jahr 1986. Mit dem Anschlag protestierten die RZ\, die von den 1970ern bi
+ s in die 1990er Jahre hinein in der Bundesrepublik aktiv waren\, gegen die
+  Abschiebung von Asylsuchenden sowie die Praxis des Sextourismus\, die dur
+ ch Lufthansa-Flüge ermöglicht wurden.\nDreißig Jahre später reflektier
+ t Ingrid Strobl in "Vermessene Zeit - Der Wecker\, der Knast und ich" übe
+ r die Zeit im Gefängnis\, politischen Aktivismus von Frauen in seiner Zei
+ t und was das mit ihr zu tun hat. Auch aus diesem Buch werden wir \n\nQuel
+ le: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:c5b5f8fb4ee1701c52e9@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:VL: GESCHLOSSENE VERANSTALTUNG
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Quelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:2665cc509bd14e690bf9@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261205T180000
+DTEND;TZID=Europe/Berlin:20261205T210000
+SUMMARY:VL: Drittes internationales Dinostapeln
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Sei auch du Teil des dritten internationalen Dinostapelns. Dies
+ es Jahr wird nur in Teams von 3-5 Personen gestapelt. Anmeldungen werden b
+ is 19:30 Uhr angenommen. Aussagekräftige Teamnamen sind notwendig. Demnä
+ chst wird auch das Regelwerk bekannt gegeben. Eines sei gesagt: wir wollen
+  hoch hinaus. Stellt Euch.\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:17dc498222eea732749d@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261209T200000
+DTEND;TZID=Europe/Berlin:20261209T230000
+SUMMARY:VL: TEXTE UND KONZERT - Robert Stadlober: Stefan Heym
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Robert Stadlober: "Das VL und die Stadt Halle haben einen beson
+ deren Platz in meinem Herzen. Nachdem was in Sachsen-Anhalt gerade los ist
+ \, hab ich mir gedacht: fahren wir mal hin. Damit wir uns alle versichern.
+  Uns gibt es! Und vor allem bring ich Stefan Heym mit. Der ist schon mit g
+ anz anderen als diesem Herren in zu engen Anzügen fertig geworden! Kommt 
+ ihr doch auch!"\n\nQuelle: https://www.ludwigstrasse37.de/
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5574ae2f2a0bb68938@vl-kalender
-DTSTAMP:20261012T120033Z
+DTSTAMP:20261019T095505Z
 DTSTART;TZID=Europe/Berlin:20261212T220000
 DTEND;TZID=Europe/Berlin:20261213T010000
 SUMMARY:VL: DEAF BLIND DUMB (DBD)
@@ -229,10 +326,59 @@ DESCRIPTION:DEAF BLIND DUMB (DBD) - die Post Punk-\, Goth Rock-\, Death Roc
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:4e8c264d1b2da1b8c475@vl-kalender
-DTSTAMP:20261012T120033Z
-DTSTART;TZID=Europe/Berlin:20241225T190000
-DTEND;TZID=Europe/Berlin:20241225T220000
+UID:319a509a4520d4127eab@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261218T190000
+DTEND;TZID=Europe/Berlin:20261218T220000
+SUMMARY:VL: VORTRAG UND DISKUSSION - Till Randolf Amelung und Vojin Saša V
+ ukadinović: "Ten Years After. Eine Bestandsaufnahme des Queeraktivismus u
+ nd ein Rückblick auf die Anfänge der Kreischreihe"
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Zehn Jahre sind inzwischen vergangen\, seit der Querverlag 2016
+  mit "Selbsthass & Emanzipation" den ersten Band der sogenannten "Kreischr
+ eihe" veröffentlichte. Mittlerweile umfasst sie elf Sammelbände\, die si
+ ch u.a. kritisch mit den queeraktivistischen und queerfeministischen Entwi
+ cklungen auseinandersetzen - darunter "Beißreflexe" (2017)\, "Freiheit is
+ t keine Metapher" (2018)\, "Irrwege" (2020)\, "Zugzwänge" (2020) und "Sie
+ bter Oktober Dreiundzwanzig" (2024).\nHerausgeber:innen wie Patsy l'Amour 
+ laLove\, Vojin Saša Vukadinović und Till Randolf Amelung haben darin gem
+ einsam mit anderen Herausgeber:innen und Autor:innen immer wieder autorit
+ äre Tendenzen und Sehnsüchte im queeren Aktivismus\, offenen Antisemitis
+ mus\, die Modernisierung des Rassismus und die Folgen einer zur Ideologie 
+ verfestigten Identitätspolitik thematisiert. Dafür waren sie in den verg
+ angenen zehn Jahren nicht nur medial\, sondern immer wieder auch persönli
+ chen und politischen Anfeindungen ausgesetzt.\nZehn Jahre später ist es d
+ eshalb an der Zeit\, Bilanz zu ziehen: Was hat sich in dieser Zeit veränd
+ ert? Wie aktuell sind die damaligen Debatten und Diagnosen noch? Was ist v
+ on der Kritik geblieben - und was ist möglicherweise tatsächlich überho
+ lt? Oder gilt\, frei nach Kurt Tucholsky\, einmal mehr die ernüchternde E
+ insicht\, dass es Zeiten gibt\, in denen alles nur noch schlimmer und schl
+ echter wird? Darüber möchten wir mit Till Randolf Amelung und Vojin Saš
+ a Vukadinović diskutieren. Wir freuen uns auf einen erkenntnisreiche\n\nQ
+ uelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ef248919f3560c6155@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261219T200000
+DTEND;TZID=Europe/Berlin:20261219T230000
+SUMMARY:VL: VL-Die Kneipe - Lesung: "Über das Leben und Leiden der Bartifa
+ "
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:Was an Geschichte der Bartifa auch dieses Jahr zusammen gekomme
+ n ist\, wurde mit Fleiß gesammelt und liegt nun im Folgeband des Tresenta
+ gebuches vor!\nVon durchzechten Nächten\, an denen man gar nicht mehr nac
+ h Hause wollte oder über die peinlichsten Arten sein scheiß Bier bei uns
+  zu bestellen - seid dabei\, wenn aus unserem ganz privaten Tresentagebuch
+  vorgelesen wird.\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:f2bfaea5d94a58808450@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20261225T190000
+DTEND;TZID=Europe/Berlin:20261225T220000
 SUMMARY:VL: WEIHNACHTSTRASH
 LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
 DESCRIPTION:Wenn's mal an Weihnachten wieder sowas von laaangweiiilig ist\,
@@ -242,6 +388,21 @@ DESCRIPTION:Wenn's mal an Weihnachten wieder sowas von laaangweiiilig ist\,
  fragt\, was Vinyls sind: das sind die flachen\, runden\, meist schwarzen P
  lastikscheiben mit den flachen Rillen drauf ... also so richtig oldschool.
   Den Rest haben wir.\n\nQuelle: https://www.ludwigstrasse37.de/
+URL:https://www.ludwigstrasse37.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:e0df3fbed164e9630055@vl-kalender
+DTSTAMP:20261019T095505Z
+DTSTART;TZID=Europe/Berlin:20270219T200000
+DTEND;TZID=Europe/Berlin:20270219T230000
+SUMMARY:VL: THIS ROOM IS ALIVE + PATH TO EXILE + PROPHETS OF THE RISING DEA
+ D + NIHILYSM
+LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
+DESCRIPTION:THIS ROOM IS ALIVE [Facebook] (Death\, Metalcore - Halle)\nPATH
+  TO EXILE [Facebook] (Modern Melodic Death - Halle)\nPROPHETS OF THE RISIN
+ G DEAD [Facebook] (Modern Melodic Death - Gräfenhainichen)\nNIHILYSM [Fac
+ ebook] (Melodic Death\, Metalcore - Chemnitz)\n\nQuelle: https://www.ludwi
+ gstrasse37.de/
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 END:VCALENDAR
