@@ -27,41 +27,11 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3c91ef4d0faf97c44f4f@vl-kalender
-DTSTAMP:20261102T122611Z
-DTSTART;TZID=Europe/Berlin:20261029T190000
-DTEND;TZID=Europe/Berlin:20261029T220000
-SUMMARY:VL: FILM UND GESPRÄCH - Gruppe Artemis
-LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:Zum Inhalt: Während die islamische Sittenpolizei willkürliche
-  Razzien in Teheran durchführt und Fundamentalisten die Universitäten ko
- ntrollieren\, versammelt eine Professorin heimlich 6 ihrer Studentinnen\,u
- m verbotene westliche Klassiker zu lesen.\nEine Veranstaltung der Gruppe A
- rtemis [Instagram].\n\nQuelle: https://www.ludwigstrasse37.de/
-URL:https://www.ludwigstrasse37.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:ab9324c0d4eeeeffd097@vl-kalender
-DTSTAMP:20261102T122611Z
-DTSTART;TZID=Europe/Berlin:20261030T200000
-DTEND;TZID=Europe/Berlin:20261030T230000
-SUMMARY:VL: Film: "KÖRKARLEN - DER FUHRMANN DES TODES" - Ein Horrorfilm-Kl
- assiker aus Schweden
-LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:Victor Sjöström erschuf 1921 sein düsteres Stummfilm-Meister
- werk über Sucht\, Schuld und den Tod nach einer Novelle von Selma Lagerl
- öf. In drohenden Doppelbelichtungen verflocht er eine Nacht\, ein Jahr un
- d ein ganzes Leben mit der Geschichte vom FUHRMANN DES TODES.\nTHE SLOTH s
- pielt live und szenen-genau dazu Ambient\, Drone-Doom und Fieldrecordings.
- \n\nQuelle: https://www.ludwigstrasse37.de/
-URL:https://www.ludwigstrasse37.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:354f6204e04f6aa8741b@vl-kalender
-DTSTAMP:20261102T122611Z
+UID:36c7d715c1fbcc146be5@vl-kalender
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261106T190000
 DTEND;TZID=Europe/Berlin:20261106T220000
-SUMMARY:VL: GESPRÄCH UND MUSIK im Anschluss - DJ Phonatic: "Antisemitismus
+SUMMARY:VL: GESPRÄCH UND DISCO im Anschluss - DJ Phonatic: "Antisemitismus
   in der Clubszene - Wenn Solidarität zur hohlen Phrase wird" (Reihe: Gege
  n jeden Antisemitismus)
 LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
@@ -91,7 +61,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:096953fd734eca5f043a@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261108T190000
 DTEND;TZID=Europe/Berlin:20261108T220000
 SUMMARY:VL: IVA NOVA
@@ -120,7 +90,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:8527e1e36a015f28e4d1@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261114T150000
 DTEND;TZID=Europe/Berlin:20261114T180000
 SUMMARY:VL: FLINTA* DRUMWORKSHOP
@@ -142,7 +112,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:4f9cef0a02c8128a5801@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261120T190000
 DTEND;TZID=Europe/Berlin:20261120T220000
 SUMMARY:VL: OFFENE DISKUSSIONSRUNDE AM KNEIPENTISCH - Gruppe Artemis: "Welc
@@ -163,7 +133,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:cccb2f1362d927e8a1dd@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 DTEND;TZID=Europe/Berlin:20261121T230000
 SUMMARY:VL: MATRONE + THE ANTIKAROSHI
@@ -194,7 +164,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:d1585728b28e7832577b@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261127T190000
 DTEND;TZID=Europe/Berlin:20261127T220000
 SUMMARY:VL: LESUNG MIT MUSIK - AG Antisemitismus in der kosmotique (Dresden
@@ -227,7 +197,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:c5b5f8fb4ee1701c52e9@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:VL: GESCHLOSSENE VERANSTALTUNG
@@ -237,7 +207,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:2665cc509bd14e690bf9@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261205T180000
 DTEND;TZID=Europe/Berlin:20261205T210000
 SUMMARY:VL: Drittes internationales Dinostapeln
@@ -251,7 +221,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:17dc498222eea732749d@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261209T200000
 DTEND;TZID=Europe/Berlin:20261209T230000
 SUMMARY:VL: TEXTE UND KONZERT - Robert Stadlober: Stefan Heym
@@ -266,7 +236,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5574ae2f2a0bb68938@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261212T220000
 DTEND;TZID=Europe/Berlin:20261213T010000
 SUMMARY:VL: DEAF BLIND DUMB (DBD)
@@ -278,7 +248,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:319a509a4520d4127eab@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261218T190000
 DTEND;TZID=Europe/Berlin:20261218T220000
 SUMMARY:VL: VORTRAG UND DISKUSSION - Till Randolf Amelung und Vojin Saša V
@@ -311,7 +281,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:e4ef248919f3560c6155@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261219T200000
 DTEND;TZID=Europe/Berlin:20261219T230000
 SUMMARY:VL: VL-Die Kneipe - Lesung: "Über das Leben und Leiden der Bartifa
@@ -327,7 +297,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:f2bfaea5d94a58808450@vl-kalender
-DTSTAMP:20261102T122611Z
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20261225T190000
 DTEND;TZID=Europe/Berlin:20261225T220000
 SUMMARY:VL: WEIHNACHTSTRASH
@@ -342,18 +312,17 @@ DESCRIPTION:Wenn's mal an Weihnachten wieder sowas von laaangweiiilig ist\,
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:e0df3fbed164e9630055@vl-kalender
-DTSTAMP:20261102T122611Z
+UID:ef5b3e5346cedadf0e79@vl-kalender
+DTSTAMP:20261109T125357Z
 DTSTART;TZID=Europe/Berlin:20270219T200000
 DTEND;TZID=Europe/Berlin:20270219T230000
-SUMMARY:VL: THIS ROOM IS ALIVE + PATH TO EXILE + PROPHETS OF THE RISING DEA
+SUMMARY:VL: MANDRAGORA TITANIA + PATH TO EXILE + PROPHETS OF THE RISING DEA
  D + NIHILYSM
 LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:THIS ROOM IS ALIVE [Facebook] (Death\, Metalcore - Halle)\nPATH
-  TO EXILE [Facebook] (Modern Melodic Death - Halle)\nPROPHETS OF THE RISIN
- G DEAD [Facebook] (Modern Melodic Death - Gräfenhainichen)\nNIHILYSM [Fac
- ebook] (Melodic Death\, Metalcore - Chemnitz)\n\nQuelle: https://www.ludwi
- gstrasse37.de/
+DESCRIPTION:MANDRAGORA TITANIA (Epic Folk Metal - Jena)\nPATH TO EXILE [Fac
+ ebook] (Modern Melodic Death - Halle)\nPROPHETS OF THE RISING DEAD [Facebo
+ ok] (Modern Melodic Death - Gräfenhainichen)\nNIHILYSM [Facebook] (Melodi
+ c Death\, Metalcore - Chemnitz)\n\nQuelle: https://www.ludwigstrasse37.de/
 URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 END:VCALENDAR
