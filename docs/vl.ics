@@ -27,70 +27,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:36c7d715c1fbcc146be5@vl-kalender
-DTSTAMP:20261109T125357Z
-DTSTART;TZID=Europe/Berlin:20261106T190000
-DTEND;TZID=Europe/Berlin:20261106T220000
-SUMMARY:VL: GESPRÄCH UND DISCO im Anschluss - DJ Phonatic: "Antisemitismus
-  in der Clubszene - Wenn Solidarität zur hohlen Phrase wird" (Reihe: Gege
- n jeden Antisemitismus)
-LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:DJ PHONATIC (House\, Techno\, Deep House - Berlin) arbeitet als
-  DJ\, Veranstalter und Kurator eigener Events und Clubnächte. Seit dem Ma
- ssaker der Hamas am 7. Oktober 2023 gehört er zu den wenigen Akteuren der
-  elektronischen Musikszene\, die sich öffentlich und unmissverständlich 
- gegen die mangelnde Solidarität mit den israelischen Opfern und gegen den
-  wachsenden Antisemitismus innerhalb der Szene positioniert haben. Er orga
- nisierte mehrere Veranstaltungen\, die an die beim Nova Music Festival erm
- ordeten Besucherinnen und Besucher erinnerten und jüdischen Perspektiven 
- in einer zunehmend feindseligen Atmosphäre Raum gaben.\nDiese Haltung ist
-  für ihn nicht folgenlos geblieben. Seine beruflichen Möglichkeiten habe
- n sich spürbar verändert: Bereits gebuchte Auftritte wurden abgesagt\, n
- achdem sich anonym Menschen bei Bookern oder Locations darüber beschwerte
- n\, warum dort ein "Zionist" auflegen dürfe. Anfragen von Veranstaltern\,
-  Bookern und Clubs\, in denen er zuvor regelmäßig gespielt hatte\, blieb
- en plötzlich unbeantwortet. Nach einem Israel-Besuch wurde PHONATIC zudem
-  auf eine BDS-Boykottliste gesetzt\, die ausdrücklich dazu aufruft\, die 
- dort aufgeführten Künstler zu boykottieren und zu "canceln".\nWas hier s
- ichtbar wird\, ist mehr als ein persönlicher Konflikt. Es geht um die Fra
- ge\, welchen Raum eine Musikkultur für Solidarität\, Widerspruch und jü
- disches Leben lässt - und was passiert\, wenn jemand es wagt\, sich gegen
-  den Zeitgeist zu stellen.\nGerade popkulturelle Räume sind für viele J
- üdin\n\nQuelle: https://www.ludwigstrasse37.de/
-URL:https://www.ludwigstrasse37.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:096953fd734eca5f043a@vl-kalender
-DTSTAMP:20261109T125357Z
-DTSTART;TZID=Europe/Berlin:20261108T190000
-DTEND;TZID=Europe/Berlin:20261108T220000
-SUMMARY:VL: IVA NOVA
-LOCATION:VL\, Ludwigstraße 37\, 06110 Halle (Saale)
-DESCRIPTION:IVA NOVA [BandCamp] (Folk\, Avantgarde Rock\, Punk\, Jazz - St.
-  Petersburg/RU) holen sich ihre Inspiration in der slawischen Folklore\, d
- ie extravagante Musik der Band hat aber auch einen absolut eigenen wie auc
- h wilden Touch. Ihr musikalischer Ausdruck ist mächtig energiegeladen und
-  temperamentvoll\, bis hin zu verspielt und humorvoll\, weiblich und stolz
- . Wenn die Akkordeonspielerin ihr Instrument anstimmt\, träumen wir sofor
- t in endlose Weiten. Aber wenn nach acht Takten dazu der Synthie anhebt\, 
- fühlen wir uns augenblicklich in das subversive Lebensgefühl der Großst
- adt versetzt. Die Band Iva Nova wurde 2002 in Sankt Petersburg gegründet\
- , brachte 2004 ihr erstes Album heraus und startete damit sofort eine beis
- pielhafte Livekarriere im In- und Ausland. Seit dem touren die vier sympat
- hischen Musikerinnen jedes Jahr durch etliche Clubs und Festivals in der g
- anzen Welt mit ihrer unverwechselbaren und packenden Manier. Im Dezember 2
- 024 veröffentlichten Iva Nova ihr neues Album "Mnogonastut"\, und ließen
-  sich für die zehn frischen Songs wieder von den musikalischen Traditione
- n ihrer Heimat inspirieren. Aber zugleich bewegen sie sich kreativ in alle
-  erdenklichen Stilrichtungen\, sodass auf ihren Liveshows zwischen gefühl
- vollen Songs und kraftvollem Punkrock alles möglich ist. Diese musikalisc
- he Anarchie ist das Markenzeichen von IVA NOVA!\n\nQuelle: https://www.lud
- wigstrasse37.de/
-URL:https://www.ludwigstrasse37.de/
-END:VEVENT
-BEGIN:VEVENT
 UID:8527e1e36a015f28e4d1@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261114T150000
 DTEND;TZID=Europe/Berlin:20261114T180000
 SUMMARY:VL: FLINTA* DRUMWORKSHOP
@@ -112,7 +50,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:4f9cef0a02c8128a5801@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261120T190000
 DTEND;TZID=Europe/Berlin:20261120T220000
 SUMMARY:VL: OFFENE DISKUSSIONSRUNDE AM KNEIPENTISCH - Gruppe Artemis: "Welc
@@ -133,7 +71,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:cccb2f1362d927e8a1dd@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 DTEND;TZID=Europe/Berlin:20261121T230000
 SUMMARY:VL: MATRONE + THE ANTIKAROSHI
@@ -164,7 +102,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:d1585728b28e7832577b@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261127T190000
 DTEND;TZID=Europe/Berlin:20261127T220000
 SUMMARY:VL: LESUNG MIT MUSIK - AG Antisemitismus in der kosmotique (Dresden
@@ -197,7 +135,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:c5b5f8fb4ee1701c52e9@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:VL: GESCHLOSSENE VERANSTALTUNG
@@ -207,7 +145,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:2665cc509bd14e690bf9@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261205T180000
 DTEND;TZID=Europe/Berlin:20261205T210000
 SUMMARY:VL: Drittes internationales Dinostapeln
@@ -221,7 +159,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:17dc498222eea732749d@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261209T200000
 DTEND;TZID=Europe/Berlin:20261209T230000
 SUMMARY:VL: TEXTE UND KONZERT - Robert Stadlober: Stefan Heym
@@ -236,7 +174,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5574ae2f2a0bb68938@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261212T220000
 DTEND;TZID=Europe/Berlin:20261213T010000
 SUMMARY:VL: DEAF BLIND DUMB (DBD)
@@ -248,7 +186,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:319a509a4520d4127eab@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261218T190000
 DTEND;TZID=Europe/Berlin:20261218T220000
 SUMMARY:VL: VORTRAG UND DISKUSSION - Till Randolf Amelung und Vojin Saša V
@@ -281,7 +219,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:e4ef248919f3560c6155@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261219T200000
 DTEND;TZID=Europe/Berlin:20261219T230000
 SUMMARY:VL: VL-Die Kneipe - Lesung: "Über das Leben und Leiden der Bartifa
@@ -297,7 +235,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:f2bfaea5d94a58808450@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20261225T190000
 DTEND;TZID=Europe/Berlin:20261225T220000
 SUMMARY:VL: WEIHNACHTSTRASH
@@ -313,7 +251,7 @@ URL:https://www.ludwigstrasse37.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:ef5b3e5346cedadf0e79@vl-kalender
-DTSTAMP:20261109T125357Z
+DTSTAMP:20261116T124610Z
 DTSTART;TZID=Europe/Berlin:20270219T200000
 DTEND;TZID=Europe/Berlin:20270219T230000
 SUMMARY:VL: MANDRAGORA TITANIA + PATH TO EXILE + PROPHETS OF THE RISING DEA
